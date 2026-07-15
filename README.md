@@ -1,16 +1,19 @@
-## Hi there 👋
+<div>
+<img align="left" width="40%" height="100%" src="https://github.com/alannapriscylla/alannapriscylla/blob/main/octocat_alanna.png" alt="My Octocat">
+</div>
 
-<!--
-**alannapriscylla/alannapriscylla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+  
+# Alanna Priscylla 👩‍💻:
 
-Here are some ideas to get you started:
+### Hi everyone 👋
+[![Github Badge](https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/alannapriscylla)](https://github.com/alannapriscylla)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alanna-priscylla/)](https://www.linkedin.com/in/alanna-priscylla/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✍🏾 Deepening knowledge in the areas of Data Science and Artificial Intelligence
+- 🌱 Always learning and practicing, after all this is how knowledge is built
+
+
+</div>
+
+---
